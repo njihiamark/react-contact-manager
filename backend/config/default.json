@@ -1,0 +1,10 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "public": "../public/",
+  "paginate": {
+    "default": 50,
+    "max": 50
+  },
+  "mongodb": "mongodb+srv://njihia-mark:765RFAonYo5PVrOt@cluster0-fqq1b.mongodb.net/backend"
+}
